@@ -1,0 +1,27 @@
+.grid-main {
+    width: 260px;
+}
+
+.grid-btn {
+    margin: 0px 7px 7px 0px;
+    width: 60px;
+    height: 60px;
+}
+
+.grid-btn-selected {
+    margin: 0px 7px 7px 0px;
+    width: 60px;
+    height: 60px;
+    background-color: #1a1a1a;
+}
+
+.clear-btn {
+    background-color: #1a1a1a;
+    width: 100px;
+}
+
+.clear-btn:hover {
+    background-color: #fff;
+    color: #1a1a1a;
+    width: 100px;
+}
